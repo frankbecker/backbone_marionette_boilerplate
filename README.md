@@ -5,3 +5,4 @@ This boilerplate was built using Node.js, Grunt and all the NPMs necessary to co
 I use LESS as my CSS compiler.
 Marionette on top of Backbone.js to manage views, layouts, regions and garbage collection.
 And Grunt does all the work.
+I used iPad's dimension 1028 * 768
