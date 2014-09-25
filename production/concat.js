@@ -1,8 +1,8 @@
 var Imgs_model = Backbone.Model.extend({
   defaults: {
-    "description_one":  "caesar salad",
-    "description_two":     "ravioli",
-    "description_three":    "cheesecake"
+    "description_one":  "Batman the Dark Night",
+    "description_two":     "Superman is the man",
+    "description_three":    "Joker, Joker, Joker"
   }
 });
 var View_A = Backbone.Marionette.View.extend({
