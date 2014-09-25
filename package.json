@@ -1,0 +1,26 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "Backbone, Marionette, LESS, Node, Boilerplate",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "^0.11.4",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-uglify": "^0.5.1"
+  },
+  "scripts": {
+    "test": "watch"
+  },
+  "keywords": [
+    "Backbone",
+    "Marionette",
+    "LESS",
+    "Node"
+  ],
+  "author": "Francisco Becker",
+  "license": "ISC"
+}
